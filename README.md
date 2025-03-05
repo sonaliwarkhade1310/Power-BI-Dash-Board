@@ -46,5 +46,7 @@ To conduct a comprehensive analysis of Blinkit’s sales performance , customer 
                     Down by different outlet type.
                     Chart Type : Matrix Card.
 
+- <a href="https://github.com/sonaliwarkhade1310/Power-BI-Dash-Board/blob/main/Screenshot%20%20Dash%20Board.png">Dataset</a>
+
 
 
