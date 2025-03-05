@@ -27,7 +27,7 @@ To conduct a comprehensive analysis of Blinkit’s sales performance , customer 
                     Objective : Compare total sales across different outlet segmented by fat content.
                     Additional KPI Metrics: Assess how other KPI’s (Average Sales , Number of items, Average Rating) vary with fat content.                                
                     Chart Type : Bar Chart.
-
+- <a href="https://github.com/sonaliwarkhade1310/Power-BI-Dash-Board/blob/main/Screenshot%20%20Dash%20Board.png">Dataset</a>
 *Total Sales by OutletEstablishment:
                      Objective : Evaluate how the age or type of outlet establishment infliences total sales.
                      Chart Type : Line Chart.
